@@ -17,6 +17,10 @@ a {
     display: block;
 }
 
+.container {
+    max-width: 1500px;
+    margin: 0 auto;
+}
 
 /*header-banner start*/
 
