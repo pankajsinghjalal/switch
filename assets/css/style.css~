@@ -243,7 +243,9 @@ a {
   border: none;
   display: block; }
 
-
+.container {
+  max-width: 1500px;
+  margin: 0 auto; }
 
   .hide-data { display: none; }
 
